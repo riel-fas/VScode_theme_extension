@@ -1,0 +1,199 @@
+{
+  "name": "dark-theme-sos",
+  "displayName": "Dark Theme SOS",
+  "description": "A collection of cyberpunk, neon, 8-bit retro, and deep dark-inspired VS Code themes for relaxed and stylish coding sessions.",
+  "version": "2.6.0",
+  "publisher": "Wasted69",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "My Cyberpunk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_theme_sos-color-theme.json"
+      },
+      {
+        "label": "Dark Grey Neon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_theme_dark_grey-color-theme.json"
+      },
+      {
+        "label": "Neon Fusion Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_theme_neon_fusion-color-theme.json"
+      },
+      {
+        "label": "8-Bit Pink Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bit8-pink-noir.json"
+      },
+      {
+        "label": "8-Bit Orange Retro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bit8-orange-retro.json"
+      },
+      {
+        "label": "Arctic Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arctic-mirage.json"
+      },
+      {
+        "label": "Dystopian Flame",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dystopian-flame.json"
+      },
+      {
+        "label": "Electric Phantom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/electric-phantom.json"
+      },
+      {
+        "label": "Black Lotus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-lotus.json"
+      },
+      {
+        "label": "Digital Ash",
+        "uiTheme": "vs-dark",
+        "path": "./themes/digital-ash.json"
+      },
+      {
+        "label": "Sunset Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sunset-noir.json"
+      },
+      {
+        "label": "Dusk Rider",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dusk-rider.json"
+      },
+      {
+        "label": "Crimson Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crimson-sunset.json"
+      },
+      {
+        "label": "Golden Sky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/golden-sky.json"
+      },
+      {
+        "label": "Grove Street Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grove-street-noir.json"
+      },
+      {
+        "label": "Venice Beach Sky",
+        "uiTheme": "vs",
+        "path": "./themes/venice-beach-sky.json"
+      },
+      {
+        "label": "Sunset Boulevard",
+        "uiTheme": "vs",
+        "path": "./themes/sunset-boulevard.json"
+      },
+      {
+        "label": "Casino Royal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/casino-royal.json"
+      },
+      {
+        "label": "Urban Couple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/urban-couple.json"
+      },
+      {
+        "label": "Triad Dragon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/triad-dragon.json"
+      },
+      {
+        "label": "Midnight Gambler",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-gambler.json"
+      },
+      {
+        "label": "Vice City Nights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vice-city-nights.json"
+      },
+      {
+        "label": "Lazy Apartment",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lazy-apartment.json"
+      },
+      {
+        "label": "Sky High",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sky-high.json"
+      },
+      {
+        "label": "Tactical Response",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tactical-response.json"
+      },
+      {
+        "label": "Noose Operation",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noose-operation.json"
+      },
+      {
+        "label": "Biker Club",
+        "uiTheme": "vs-dark",
+        "path": "./themes/biker-club.json"
+      },
+      {
+        "label": "Desert Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/desert-sunset.json"
+      },
+      {
+        "label": "Grassrivers Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grassrivers-sunset.json"
+      },
+      {
+        "label": "Leonida Keys Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/leonida-keys-ocean.json"
+      },
+      {
+        "label": "Vice City Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vice-city-noir.json"
+      },
+      {
+        "label": "Port Gellhorn Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/port-gellhorn-noir.json"
+      },
+      {
+        "label": "Mount Kalaga Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mount-kalaga-noir.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riel-fasnow/dark-theme-sos"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cyberpunk",
+    "neon",
+    "8-bit",
+    "retro",
+    "synthwave",
+    "dark",
+    "black"
+  ],
+  "icon": "WASTED.png"
+}
