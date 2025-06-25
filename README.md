@@ -17,7 +17,6 @@
 
 ---
 
-> 💡 **Tip:** Replace these placeholder images with actual screenshots of your themes for maximum impact!
 
 ## 🎨 Available Themes
 
