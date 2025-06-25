@@ -17,9 +17,6 @@
 
 ---
 
-
-## 🎨 Available Themes
-
 ## 📊 Theme Stats
 
 <div align="center">
