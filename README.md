@@ -1,7 +1,7 @@
 # Dark Theme SOS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/vscode-icons/main/icons/file_type_vscode.svg" alt="VS Code" width="100" height="100"/>
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VS Code" width="100" height="100"/>
   
   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Wasted69.dark-theme-sos?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC)
   ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/Wasted69.dark-theme-sos?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC)
