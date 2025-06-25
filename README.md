@@ -17,33 +17,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x250/1a1a2e/16f2b3?text=Cyberpunk+Theme" alt="Cyberpunk Theme Preview" width="400"/>
-        <br><strong>Cyberpunk Collection</strong>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x250/2d1b69/ff6b6b?text=8-Bit+Retro" alt="8-Bit Retro Preview" width="400"/>
-        <br><strong>8-Bit Retro Collection</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x250/0f0f23/ffd700?text=Noir+%26+Urban" alt="Noir Collection Preview" width="400"/>
-        <br><strong>Noir & Urban Collection</strong>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/400x250/1a1a2e/ff7f50?text=Sunset+Themes" alt="Sunset Collection Preview" width="400"/>
-        <br><strong>Sunset Collection</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
 > 💡 **Tip:** Replace these placeholder images with actual screenshots of your themes for maximum impact!
 
 ## 🎨 Available Themes
