@@ -129,12 +129,9 @@ Whether you prefer the electric intensity of neon themes, the nostalgic charm of
 ---
 
 <div align="center">
-  <h3>🎯 Made for Developers, by Developers</h3>
   <p>
     <img src="https://img.shields.io/badge/Made%20with-💜-blueviolet?style=flat-square" alt="Made with love"/>
     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"/>
     <img src="https://img.shields.io/badge/VS%20Code-Compatible-blue?style=flat-square&logo=visual-studio-code" alt="VS Code Compatible"/>
   </p>
-  
-  <p><em>Transform your coding experience into a visual adventure</em></p>
 </div>
